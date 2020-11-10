@@ -4,8 +4,8 @@
 
 ---
 
-1.[iOS RunLoop 卡顿监控](https://github.com/linminjing888/MJRunLoopDemo)  
-2.[半透明新手引导的封装](https://github.com/linminjing888/MJGuideMaskView)
+1.[iOS RunLoop 卡顿监控](https://github.com/linminjing888/MJRunLoopDemo)   
+2.[半透明新手引导的封装](https://github.com/linminjing888/MJGuideMaskView)  
 3.[仿爱鲜蜂 二级联动](https://github.com/linminjing888/BeeQuick_One)
 
 
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ..
 - ⚡ Fun fact: ...
 -->
