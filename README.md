@@ -4,8 +4,8 @@
 ---
 1.[iOS RunLoop 卡顿监控](https://github.com/linminjing888/MJRunLoopDemo)   
 2.[半透明新手引导的封装](https://github.com/linminjing888/MJGuideMaskView)  
-3.[仿爱鲜蜂 二级联动](https://github.com/linminjing888/BeeQuick_One)
-
+3.[仿爱鲜蜂 二级联动](https://github.com/linminjing888/BeeQuick_One)  
+4.[flutter_demo](https://github.com/linminjing888/flutter_demo)
 
 <!--
 **linminjing666/linminjing666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
